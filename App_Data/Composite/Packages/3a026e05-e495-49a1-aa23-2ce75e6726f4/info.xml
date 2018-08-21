@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInfo name="Orckestra.ExperienceManagement.TestConfiguration" groupName="Orckestra.ExperienceManagement" version="1.0.1" author="-" website="http://xpcteam01.cph.orckestra.local/" description="--" installDate="2018-07-16T20:49:18.4055538+02:00" installedBy="admin" isLocalInstalled="true" canBeUninstalled="true" flushOnCompletion="true" reloadConsoleOnCompletion="false" systemLocking="hard" xmlns="http://www.composite.net/ns/management/packageinstaller/1.0" />

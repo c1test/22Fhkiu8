@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageElements>
+  <Language Id="677d6360-8233-479a-8045-5f5918b78540" Code="en-CA" IsActive="true" DisplayName="English" ShortDisplayName="EN" PublicationStatus="published" />
+  <Language Id="a7f11853-2172-412c-bdad-e47ce1611416" Code="fr-CA" IsActive="true" DisplayName="Français" ShortDisplayName="FR" PublicationStatus="published" />
+</LanguageElements>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInfo name="Orckestra.ExperienceManagement.QueryBuilder" groupName="Orckestra.ExperienceManagement" version="3.19.6" author="Orckestra " website="https://orckestra.com/" description="Query BuilderQuery Builder" installDate="2018-07-16T20:49:19.538134+02:00" installedBy="admin" isLocalInstalled="true" canBeUninstalled="true" flushOnCompletion="true" reloadConsoleOnCompletion="true" systemLocking="hard" xmlns="http://www.composite.net/ns/management/packageinstaller/1.0" />

@@ -1,0 +1,1352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.DataPackageFragmentUninstaller,Composite">
+      <Types xmlns="">
+        <Type type="Composite.Data.Types.IPage,Composite" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="e90e0d35-de67-4e8a-a03e-52529cdb437f" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="571e734c-57a8-4d99-9c05-754bc1f31f2a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9171940c-a854-4db3-997b-793082e8030b" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="4b6dcc4b-a1c0-4ed6-8ad4-fee97bb707a7" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="09625722-6d35-4c8d-a374-203167f887e5" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPage,Composite" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="e90e0d35-de67-4e8a-a03e-52529cdb437f" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="571e734c-57a8-4d99-9c05-754bc1f31f2a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9171940c-a854-4db3-997b-793082e8030b" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="4b6dcc4b-a1c0-4ed6-8ad4-fee97bb707a7" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="09625722-6d35-4c8d-a374-203167f887e5" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.Pages.ComposerImage,Orckestra.Composer.CompositeC1" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="464f80b3-656c-4d4f-8cc6-7f0a8bb7d638" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPagePlaceholderContent,Composite" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="e90e0d35-de67-4e8a-a03e-52529cdb437f" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="e90e0d35-de67-4e8a-a03e-52529cdb437f" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="571e734c-57a8-4d99-9c05-754bc1f31f2a" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="571e734c-57a8-4d99-9c05-754bc1f31f2a" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="9171940c-a854-4db3-997b-793082e8030b" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="9171940c-a854-4db3-997b-793082e8030b" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="4b6dcc4b-a1c0-4ed6-8ad4-fee97bb707a7" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="4b6dcc4b-a1c0-4ed6-8ad4-fee97bb707a7" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPagePlaceholderContent,Composite" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b3aba631-f426-4026-b2c2-b3197fcf3140" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8cbbe0d2-6e2b-4364-ad60-5c89a27ad70a" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c558dc03-a8cd-4793-9d15-11bca1474592" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="200eb67f-65fe-4dc1-92f1-1628efacaa54" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="be605ad2-54d0-43a8-a3fe-88546c70b890" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="eb5f4580-ff7d-4384-84c9-855a1e9508e0" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="01ad151e-fb67-4899-af29-be1a221fddc0" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="cf2c83d0-f72f-4d48-a856-fc9244bd4ca3" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="c4cc1194-0948-4f93-8a2e-519d78b66255" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="add1bd26-ce89-4cc1-896c-ab5bbadf1c74" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="aa722e1e-d8c5-4a22-90a7-1d035972acfa" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="e90e0d35-de67-4e8a-a03e-52529cdb437f" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="e90e0d35-de67-4e8a-a03e-52529cdb437f" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="571e734c-57a8-4d99-9c05-754bc1f31f2a" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="571e734c-57a8-4d99-9c05-754bc1f31f2a" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="b6284e71-394d-4e22-abf3-08afb0493745" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="9171940c-a854-4db3-997b-793082e8030b" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="9171940c-a854-4db3-997b-793082e8030b" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="4b6dcc4b-a1c0-4ed6-8ad4-fee97bb707a7" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="4b6dcc4b-a1c0-4ed6-8ad4-fee97bb707a7" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="3ebe528c-199d-4da1-9e81-1d541541aaf4" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="8f96397a-efeb-4490-b3b8-cd0132d2326e" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="de35d3fb-8c85-4b3a-bdbb-5d57fb20e10e" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d6264f2f-c475-41ef-acf4-9bd3f10da8b4" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="84361534-86b5-4fc7-81d4-87542daed5b8" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="48d7be18-3954-4fd2-9e18-e11fa4407901" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="a4d5e201-b70e-42d5-83fb-3b837613155c" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="f3dbd28d-365f-4d3e-91c3-7b730b39b294" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="0ac9d403-ac27-468e-94ac-9f70bfefd063" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="63fc5bc5-55b2-4446-af33-fa3c84604875" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="978f8144-460b-4bf5-832a-9c6d1d08d27b" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="09625722-6d35-4c8d-a374-203167f887e5" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="d52af03f-d5c9-4d8d-aa5c-917982ea112c" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="languageSwitch" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="body" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="pageHeader" />
+            </Keys>
+            <Keys>
+              <Key name="PageId" value="7f2d9118-b941-46ea-862d-808d4bd0052a" />
+              <Key name="PlaceHolderId" value="breadcrumb" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.Pages.CheckoutStepInfoPage,Orckestra.Composer.CompositeC1" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="2de6130f-f830-40f0-851a-cba5a39d73c5" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="6e840c21-bd38-4cf1-873e-00543807e132" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8fef73ff-a22c-4529-b184-156ac4aafaff" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a6ab2d83-91e3-42d2-a281-88dc75758a53" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d6da7cf4-f5c9-4da4-a0fb-204d3f9bec0a" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.Pages.CheckoutStepInfoPage,Orckestra.Composer.CompositeC1" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="2de6130f-f830-40f0-851a-cba5a39d73c5" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="6e840c21-bd38-4cf1-873e-00543807e132" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8fef73ff-a22c-4529-b184-156ac4aafaff" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a6ab2d83-91e3-42d2-a281-88dc75758a53" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d6da7cf4-f5c9-4da4-a0fb-204d3f9bec0a" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.UrlTarget,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="af376149-073a-41d9-8f24-8c0b6b1ce4d8" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d5203756-52fe-413e-a8ea-1ddacbf6549b" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.UrlTarget,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="af376149-073a-41d9-8f24-8c0b6b1ce4d8" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="d5203756-52fe-413e-a8ea-1ddacbf6549b" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.CssStyle,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="222fa8f9-35c7-4d47-aed9-55b82f989328" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="68241217-cf47-4bf6-8562-d9e82a796078" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.CssStyle,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="222fa8f9-35c7-4d47-aed9-55b82f989328" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="68241217-cf47-4bf6-8562-d9e82a796078" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.MainMenu,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="15abb272-244c-4186-b8ab-b3e866477d6a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="291baffb-b0fa-4724-8c94-2defa9dd6127" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="b6980822-ac68-42fd-a4db-c6601294c012" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="bf88c5ec-502d-4f2f-a101-e2c3340d9653" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="5c56a148-237b-48e4-9414-8e5f9233b53d" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="1e7cc6a0-921f-45ac-a284-f90a45ce209c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="cfb78979-0559-42ee-ae4a-3bd46de896b6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="80dff080-3405-472f-a99d-9464d3519de2" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9fe415da-c9f7-4ff7-878b-4df509f14881" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="52f9452f-c777-4706-8b32-09718c435811" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.MainMenu,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="15abb272-244c-4186-b8ab-b3e866477d6a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="291baffb-b0fa-4724-8c94-2defa9dd6127" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="b6980822-ac68-42fd-a4db-c6601294c012" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="bf88c5ec-502d-4f2f-a101-e2c3340d9653" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="5c56a148-237b-48e4-9414-8e5f9233b53d" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="1e7cc6a0-921f-45ac-a284-f90a45ce209c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="cfb78979-0559-42ee-ae4a-3bd46de896b6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="80dff080-3405-472f-a99d-9464d3519de2" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9fe415da-c9f7-4ff7-878b-4df509f14881" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="52f9452f-c777-4706-8b32-09718c435811" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.StickyHeader,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="0c9f46ef-1ade-42a0-b71c-81d5a8d38344" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f7752318-be3c-4eb8-9969-20d8188190f9" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.StickyHeader,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="0c9f46ef-1ade-42a0-b71c-81d5a8d38344" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f7752318-be3c-4eb8-9969-20d8188190f9" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.FooterOptionalLink,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="public">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="43a13cbf-8af1-413e-be30-622eae977290" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="db8fe829-da1f-44fd-8713-4a8831ec3798" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.FooterOptionalLink,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA">
+            <Keys>
+              <Key name="Id" value="43a13cbf-8af1-413e-be30-622eae977290" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="db8fe829-da1f-44fd-8713-4a8831ec3798" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.Footer,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="public">
+          <Datas locale="fr-CA" />
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Navigation.Footer,Orckestra.Composer.CompositeC1.DataTypes" dataScopeIdentifier="administrated">
+          <Datas locale="fr-CA" />
+        </Type>
+      </Types>
+    </Add>
+  </PackageFragmentUninstallers>
+</PackageInstaller>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInfo name="Composer.C1.Content.EN_CA" groupName="Composer" version="1.0.0" author="Orckestra" website="http://composer-c1-cm-dev.orckestra.local/" description="NTNT" installDate="2018-07-16T20:49:12.4222661+02:00" installedBy="admin" isLocalInstalled="true" canBeUninstalled="true" flushOnCompletion="false" reloadConsoleOnCompletion="false" systemLocking="hard" xmlns="http://www.composite.net/ns/management/packageinstaller/1.0" />

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServerElementsElements>
+  <ServerElements Id="xpcteam01:3512:7cd7d68b-9978-4f6e-9aa6-442fa8c68ff2" Data="{&quot;WorkerCount&quot;:5,&quot;Queues&quot;:[&quot;default&quot;],&quot;StartedAt&quot;:&quot;2018-08-21T12:57:04.9131389Z&quot;}" LastHeartbeat="2018-08-21T12:57:35.5176809Z" />
+</ServerElementsElements>

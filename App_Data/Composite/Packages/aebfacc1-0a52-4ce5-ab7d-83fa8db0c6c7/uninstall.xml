@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FilePackageFragmentUninstaller,Composite">
+      <Files xmlns="">
+        <File filename="~\DataStoreMigrator.aspx" />
+        <File filename="~\DataStoreMigrator.aspx.cs" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/bottom.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/bottomleft.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/bottomright.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/CompositeC1.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/left.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/right.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/top.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/topleft.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Images/topright.png" />
+        <File filename="~\Frontend\Composite\Tools\DataStoreMigrator\Styles.css" />
+      </Files>
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.DataPackageFragmentUninstaller,Composite">
+      <Types xmlns="" />
+    </Add>
+  </PackageFragmentUninstallers>
+</PackageInstaller>

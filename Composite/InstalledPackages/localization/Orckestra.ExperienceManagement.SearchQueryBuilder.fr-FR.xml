@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string key="QueryPerpspective" value="Marchandisage" />
+  <string key="ElementProvider.RootQueryLabel" value="Requêtes" />
+  <string key="ElementProvider.RootQueryTooltip" value="Requêtes" />
+  <string key="ElementProvider.AddQueryLabel" value="Ajouter une requête" />
+  <string key="ElementProvider.AddQueryTooltip" value="Ajouter une requête" />
+  <string key="AddNewQuery.DialogLabel" value="Ajouter une requête" />
+  <string key="ElementProvider.EditQueryLabel" value="Modifier la requête" />
+  <string key="ElementProvider.EditQueryTooltip" value="Modifier la requête" />
+  <string key="ElementProvider.DeleteQueryLabel" value="Supprimer la requête" />
+  <string key="ElementProvider.DeleteQueryTooltip" value="Supprimer la requête" />
+  <string key="Messages.EntityAlreadyExists" value="Une requête avec le même nom existe déjà" />
+  <string key="AddNewQuery.QueryNameLabel" value="Nom de la requête" />
+  <string key="AddNewQuery.QueryNameHelp" value="Nom de la requête" />
+  <string key="DeleteQuery.DialogLabel" value="Supprimer la requête?" />
+  <string key="DeleteQuery.DialogText" value="Supprimer la requête sélectionnée?" />
+  <string key="ProductSets.RootLabel" value="Ensemble de produits" />
+  <string key="ProductSets.RootTooltip" value="Ensemble de produits" />
+  <string key="ProductSets.AddLabel" value="Ajouter un ensemble de produits" />
+  <string key="ProductSets.EditLabel" value="Modifier un ensemble de produits" />
+  <string key="ProductSets.DeleteLabel" value="Supprimer l'ensemble de produits" />
+  <string key="Component.Grid.Title" value="Afficher la requête complète en tant que page" />
+  <string key="Parameters.QueryNameLabel" value="Nom de la requête de recherche" />
+  <string key="Parameters.QueryNameHelp" value="" />
+  <string key="Parameters.NumberLabel" value="Nombre" />
+  <string key="Parameters.NumberHelp" value="" />
+  <string key="Parameters.PageLabel" value="Page" />
+  <string key="Parameters.PagerHelp" value="" />
+  <string key="AddNewProductSet.DialogLabel" value="Ajouter un ensemble de produits" />
+  <string key="AddNewProductSet.ProductSetNameLabel" value="Nom de l'ensemble de produits" />
+  <string key="AddNewProductSet.ProductSetNameHelp" value="Nom de l'ensemble de produits" />
+  <string key="DeleteProductSet.DialogLabel" value="Supprimer l'ensemble de produits?" />
+  <string key="DeleteProductSet.DialogText" value="Supprimer l'ensemble de produits sélectionné?" />
+  <string key="ProductSets.SetTitle" value="Ensemble de produits" />
+  <string key="ProductSets.SelectedTitle" value="{0} sélectionné(s)" />
+  <string key="ProductSets.AddProductButton" value="Ajouter" />
+  <string key="ProductSets.SaveButton" value="Sauvegarder" />
+  <string key="ProductSets.UnselectButton" value="Désélectionner tout" />
+  <string key="ProductSets.ImportButton" value="Importer les SKUs" />
+  <string key="ProductSets.RemoveAllButton" value="Supprimer tout" />
+  <string key="ProductSets.ImportForm.ModalTitle" value="Importer les SKUs" />
+  <string key="ProductSets.ImportForm.ListOfSkusLabel" value="Liste de SKUs" />
+  <string key="ProductSets.ImportForm.ListOfSkusHelpText" value="Ajouter un SKU par ligne" />
+  <string key="ProductSets.ImportForm.ImportBehaviorLabel" value="Importer un comportement" />
+  <string key="ProductSets.ImportForm.AppendOptionLabel" value="Ajouter à une liste existante" />
+  <string key="ProductSets.ImportForm.ReplaceoptionLabel" value="Remplacer la liste existante" />
+  <string key="ProductSets.ImportForm.SubmitButtonLabel" value="Importer les SKUs" />
+  <string key="Inactive" value="Inactif" />
+  <string key="Invalid" value="Invalide" />
+</strings>

@@ -1,0 +1,868 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.LocalePackageFragmentUninstaller,Composite">
+      <Locales oldDefault="en-US" xmlns="">
+        <Locale name="en-CA" />
+        <Locale name="fr-CA" />
+      </Locales>
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.DynamicDataTypePackageFragmentUninstaller,Composite">
+      <Types xmlns="">
+        <Type typeId="edfe60c8-5405-4313-b138-18549454319a" />
+      </Types>
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FilePackageFragmentUninstaller,Composite">
+      <Files xmlns="">
+        <File filename="~\Composite/content/sitemap/SitemapManagement.aspx" />
+        <File filename="~\Renderers\Page.aspx.cs" backupFile="34435105_Page.aspx.cs" />
+        <File filename="~\robots.txt" backupFile="-1601221997_robots.txt" />
+        <File filename="~\robots.prd.txt" />
+        <File filename="~\Global.asax" backupFile="-1601221997_Global.asax" />
+        <File filename="~\error.html" />
+        <File filename="~\UI.Package\Css/composer.css" />
+        <File filename="~\UI.Package\Fonts/bootstrap/glyphicons-halflings-regular.eot" />
+        <File filename="~\UI.Package\Fonts/bootstrap/glyphicons-halflings-regular.svg" />
+        <File filename="~\UI.Package\Fonts/bootstrap/glyphicons-halflings-regular.ttf" />
+        <File filename="~\UI.Package\Fonts/bootstrap/glyphicons-halflings-regular.woff" />
+        <File filename="~\UI.Package\Fonts/bootstrap/glyphicons-halflings-regular.woff2" />
+        <File filename="~\UI.Package\Fonts/font-awesome/fontawesome-webfont.eot" />
+        <File filename="~\UI.Package\Fonts/font-awesome/fontawesome-webfont.svg" />
+        <File filename="~\UI.Package\Fonts/font-awesome/fontawesome-webfont.ttf" />
+        <File filename="~\UI.Package\Fonts/font-awesome/fontawesome-webfont.woff" />
+        <File filename="~\UI.Package\Fonts/font-awesome/fontawesome-webfont.woff2" />
+        <File filename="~\UI.Package\Fonts/font-awesome/FontAwesome.otf" />
+        <File filename="~\UI.Package\Images/better-retail.png" />
+        <File filename="~\UI.Package\Images/better-retail.svg" />
+        <File filename="~\UI.Package\Images/composer.png" />
+        <File filename="~\UI.Package\Images/composer.svg" />
+        <File filename="~\UI.Package\Images/creditcards-trust-icon.png" />
+        <File filename="~\UI.Package\Images/creditcards/american-express.png" />
+        <File filename="~\UI.Package\Images/creditcards/mastercard.png" />
+        <File filename="~\UI.Package\Images/creditcards/visa.png" />
+        <File filename="~\UI.Package\Images/favicons/android-chrome-144x144.png" />
+        <File filename="~\UI.Package\Images/favicons/android-chrome-192x192.png" />
+        <File filename="~\UI.Package\Images/favicons/android-chrome-36x36.png" />
+        <File filename="~\UI.Package\Images/favicons/android-chrome-48x48.png" />
+        <File filename="~\UI.Package\Images/favicons/android-chrome-72x72.png" />
+        <File filename="~\UI.Package\Images/favicons/android-chrome-96x96.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-114x114.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-120x120.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-144x144.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-152x152.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-180x180.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-57x57.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-60x60.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-72x72.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-76x76.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon-precomposed.png" />
+        <File filename="~\UI.Package\Images/favicons/apple-touch-icon.png" />
+        <File filename="~\UI.Package\Images/favicons/favicon-16x16.png" />
+        <File filename="~\UI.Package\Images/favicons/favicon-32x32.png" />
+        <File filename="~\UI.Package\Images/favicons/favicon-96x96.png" />
+        <File filename="~\UI.Package\Images/favicons/favicon.ico" />
+        <File filename="~\UI.Package\Images/favicons/mstile-144x144.png" />
+        <File filename="~\UI.Package\Images/favicons/mstile-150x150.png" />
+        <File filename="~\UI.Package\Images/favicons/mstile-310x150.png" />
+        <File filename="~\UI.Package\Images/favicons/mstile-310x310.png" />
+        <File filename="~\UI.Package\Images/favicons/mstile-70x70.png" />
+        <File filename="~\UI.Package\Images/map/cluster.png" />
+        <File filename="~\UI.Package\Images/map/marker-default.png" />
+        <File filename="~\UI.Package\Images/map/marker.png" />
+        <File filename="~\UI.Package\Images/payments/american-express.png" />
+        <File filename="~\UI.Package\Images/payments/cash.png" />
+        <File filename="~\UI.Package\Images/payments/giftcard.png" />
+        <File filename="~\UI.Package\Images/payments/mastercard.png" />
+        <File filename="~\UI.Package\Images/payments/visa.png" />
+        <File filename="~\UI.Package\JavaScript/bootstrap.min.js" />
+        <File filename="~\UI.Package\JavaScript/composer-templates.js" />
+        <File filename="~\UI.Package\JavaScript/composer-templates.min.js" />
+        <File filename="~\UI.Package\JavaScript/google.maps.utility.library.v3.markerwithlabel_packed.js" />
+        <File filename="~\UI.Package\JavaScript/handlebars.runtime.min.js" />
+        <File filename="~\UI.Package\JavaScript/html5shiv.js" />
+        <File filename="~\UI.Package\JavaScript/jquery-1.11.2.min.js" />
+        <File filename="~\UI.Package\JavaScript/jquery.serialize-object.js" />
+        <File filename="~\UI.Package\JavaScript/jquery.serialize-object.min.js" />
+        <File filename="~\UI.Package\JavaScript/lodash-3.8.0.js" />
+        <File filename="~\UI.Package\JavaScript/lodash.min.js" />
+        <File filename="~\UI.Package\JavaScript/modernizr.js" />
+        <File filename="~\UI.Package\JavaScript/nouislider.js" />
+        <File filename="~\UI.Package\JavaScript/orckestra.composer.js" />
+        <File filename="~\UI.Package\JavaScript/parsley.js" />
+        <File filename="~\UI.Package\JavaScript/parsley.min.js" />
+        <File filename="~\UI.Package\JavaScript/q-1.2.0.js" />
+        <File filename="~\UI.Package\JavaScript/respond.js" />
+        <File filename="~\UI.Package\JavaScript/slick.js" />
+        <File filename="~\UI.Package\LocalizedStrings/CheckoutProcess.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/CheckoutProcess.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/CheckoutProcess_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/CheckoutProcess_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Errors.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Errors.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Errors_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Errors_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/FacetFormatting.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/FacetFormatting.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/FacetFormatting_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/FacetFormatting_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Forms.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Forms.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Forms_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Forms_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/General.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/General.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/General_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/General_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/handlebar.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/handlebar.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/List-Search.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/List-Search.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/List-Search_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/List-Search_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MiniCart.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MiniCart.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MiniCart_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MiniCart_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Moneris.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Moneris.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Moneris_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Moneris_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/mvc-cms.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/mvc-cms.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyAccount.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyAccount.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyAccount_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyAccount_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyOrders.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyOrders.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/MyOrders_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductPage.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductPage.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductPage_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductPage_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductSpecificationsPropertyFormatting.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductSpecificationsPropertyFormatting.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductSpecificationsPropertyFormatting_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ProductSpecificationsPropertyFormatting_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ShoppingCart.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ShoppingCart.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ShoppingCart_Custom.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/ShoppingCart_Custom.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Store.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/Store.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/WishList.fr.resx" />
+        <File filename="~\UI.Package\LocalizedStrings/WishList.resx" />
+        <File filename="~\UI.Package\Sass/Blades/AddToCartNotification/_notification-modal.scss" />
+        <File filename="~\UI.Package\Sass/Blades/CartSummary/_cart.scss" />
+        <File filename="~\UI.Package\Sass/Blades/CartSummary/_display-table.scss" />
+        <File filename="~\UI.Package\Sass/Blades/CartSummary/_promotions.scss" />
+        <File filename="~\UI.Package\Sass/Blades/CheckoutCommon/_checkout-navigation.scss" />
+        <File filename="~\UI.Package\Sass/Blades/CheckoutCommon/_order-summary-affix.scss" />
+        <File filename="~\UI.Package\Sass/Blades/MiniCart/_minicart-summary.scss" />
+        <File filename="~\UI.Package\Sass/Blades/MonerisPaymentProvider/_moneris.scss" />
+        <File filename="~\UI.Package\Sass/Blades/OrderHistory/_compact-order.scss" />
+        <File filename="~\UI.Package\Sass/Blades/OrderHistory/_payment.scss" />
+        <File filename="~\UI.Package\Sass/Blades/OrderHistory/_savings.scss" />
+        <File filename="~\UI.Package\Sass/Blades/OrderSummary/_additional-info.scss" />
+        <File filename="~\UI.Package\Sass/Blades/ProductDetail/_product-details.scss" />
+        <File filename="~\UI.Package\Sass/Blades/StoreLocator/_store-details.scss" />
+        <File filename="~\UI.Package\Sass/Blades/StoreLocator/_store-directory.scss" />
+        <File filename="~\UI.Package\Sass/Blades/StoreLocator/_store-inventory.scss" />
+        <File filename="~\UI.Package\Sass/Blades/StoreLocator/_store-locator.scss" />
+        <File filename="~\UI.Package\Sass/Blades/WishList/_wishlist-tile.scss" />
+        <File filename="~\UI.Package\Sass/Blades/WishList/_wishlist.scss" />
+        <File filename="~\UI.Package\Sass/Blades/_placeholder.scss" />
+        <File filename="~\UI.Package\Sass/composer.scss" />
+        <File filename="~\UI.Package\Sass/Custom/Responsive/_pull.scss" />
+        <File filename="~\UI.Package\Sass/Custom/Responsive/_text-align.scss" />
+        <File filename="~\UI.Package\Sass/Custom/Search/_product-tile.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_additional-fees.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_affix.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_anchor.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_bleed.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_button-groups.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_carousel.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_cta.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_footer.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_form.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_header.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_hitbox.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_island.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_links.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_main-nav.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_mulitiline-message.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_navbar.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_navpills.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_select-block.scss" />
+        <File filename="~\UI.Package\Sass/Custom/_social-links.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_alerts.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_background-variant.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_border-radius.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_buttons.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_center-block.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_clearfix.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_forms.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_gradients.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_grid-framework.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_grid.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_hide-text.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_image.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_labels.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_list-group.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_nav-divider.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_nav-vertical-align.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_opacity.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_pagination.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_panels.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_progress-bar.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_reset-filter.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_resize.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_responsive-visibility.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_size.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_tab-focus.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_table-row.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_text-emphasis.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_text-overflow.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/mixins/_vendor-prefixes.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_alerts.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_badges.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_breadcrumbs.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_button-groups.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_buttons.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_carousel.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_close.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_code.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_component-animations.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_dropdowns.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_forms.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_glyphicons.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_grid.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_input-groups.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_jumbotron.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_labels.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_list-group.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_media.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_mixins.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_modals.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_navbar.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_navs.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_normalize.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_pager.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_pagination.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_panels.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_popovers.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_print.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_progress-bars.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_responsive-embed.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_responsive-utilities.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_scaffolding.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_tables.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_theme.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_thumbnails.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_tooltip.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_type.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_utilities.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_variables.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/bootstrap/_wells.scss" />
+        <File filename="~\UI.Package\Sass/Lib/bootstrap/_bootstrap.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_animated.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_bordered-pulled.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_core.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_fixed-width.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_font-awesome.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_icons.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_larger.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_list.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_mixins.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_path.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_rotated-flipped.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_stacked.scss" />
+        <File filename="~\UI.Package\Sass/Lib/font-awesome/_variables.scss" />
+        <File filename="~\UI.Package\Sass/Lib/nouislider/_nouislider.scss" />
+        <File filename="~\UI.Package\Sass/Lib/slick/_slick.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_breadcrumb.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_button-groups.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_buttons.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_close.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_dropdown.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_forms.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_image.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_modal.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_navs.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_pager.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_pagination.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_panel.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_scaffolding.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_tables.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_tooltip.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_type.scss" />
+        <File filename="~\UI.Package\Sass/Overrides/_well.scss" />
+        <File filename="~\UI.Package\Sass/_bootstrap.scss" />
+        <File filename="~\UI.Package\Sass/_config-bootstrap.scss" />
+        <File filename="~\UI.Package\Sass/_config.scss" />
+        <File filename="~\UI.Package\Templates/AccountHeader.hbs" />
+        <File filename="~\UI.Package\Templates/AccountHeaderBlade.hbs" />
+        <File filename="~\UI.Package\Templates/AccountHeaderLogoutButton.hbs" />
+        <File filename="~\UI.Package\Templates/AdditionalFees.hbs" />
+        <File filename="~\UI.Package\Templates/Address.hbs" />
+        <File filename="~\UI.Package\Templates/AddressConfirmationModal.hbs" />
+        <File filename="~\UI.Package\Templates/AddressList.hbs" />
+        <File filename="~\UI.Package\Templates/AddressListBlade.hbs" />
+        <File filename="~\UI.Package\Templates/AddressListItem.hbs" />
+        <File filename="~\UI.Package\Templates/AddressRegionPicker.hbs" />
+        <File filename="~\UI.Package\Templates/AddressTemplate.hbs" />
+        <File filename="~\UI.Package\Templates/AddToCartNotificationModal.hbs" />
+        <File filename="~\UI.Package\Templates/AddToCartNotificationModalContainer.hbs" />
+        <File filename="~\UI.Package\Templates/AddToCartProductDetail.hbs" />
+        <File filename="~\UI.Package\Templates/AddToCartQuickView.hbs" />
+        <File filename="~\UI.Package\Templates/AddToCartSearch.hbs" />
+        <File filename="~\UI.Package\Templates/AddToCartWishList.hbs" />
+        <File filename="~\UI.Package\Templates/AddToWishList.hbs" />
+        <File filename="~\UI.Package\Templates/AddToWishListQuickView.hbs" />
+        <File filename="~\UI.Package\Templates/Attributes.hbs" />
+        <File filename="~\UI.Package\Templates/BackButton.hbs" />
+        <File filename="~\UI.Package\Templates/BillingAddress.hbs" />
+        <File filename="~\UI.Package\Templates/BillingAddressContainer.hbs" />
+        <File filename="~\UI.Package\Templates/BillingAddressRegistered.hbs" />
+        <File filename="~\UI.Package\Templates/BillingAddressRegisteredContainer.hbs" />
+        <File filename="~\UI.Package\Templates/BillingAddressTemplate.hbs" />
+        <File filename="~\UI.Package\Templates/BillingRegisteredAddresses.hbs" />
+        <File filename="~\UI.Package\Templates/Breadcrumb.hbs" />
+        <File filename="~\UI.Package\Templates/Carousel.hbs" />
+        <File filename="~\UI.Package\Templates/CartContent.hbs" />
+        <File filename="~\UI.Package\Templates/CartSummary.hbs" />
+        <File filename="~\UI.Package\Templates/CartSummaryBlade.hbs" />
+        <File filename="~\UI.Package\Templates/CategoryBrowsingSummary.hbs" />
+        <File filename="~\UI.Package\Templates/CategoryBrowsingSummaryEmpty.hbs" />
+        <File filename="~\UI.Package\Templates/ChangePassword.hbs" />
+        <File filename="~\UI.Package\Templates/ChangePasswordBlade.hbs" />
+        <File filename="~\UI.Package\Templates/ChangePasswordForms.hbs" />
+        <File filename="~\UI.Package\Templates/ChangePasswordSuccessful.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutComplete.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompleteBillingAddress.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompleteCartDetail.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompleteCartLineItem.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompleteContainer.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompletePaymentProvider.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompleteShippingAddress.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutCompleteShippingMethod.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutNavigation.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutOrderConfirmation.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutOrderConfirmationContainer.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutOrderSummary.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutOrderSummaryContainer.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutOrderSummaryDetails.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutPayment.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutPaymentContainer.hbs" />
+        <File filename="~\UI.Package\Templates/CheckoutSignInAsGuest.hbs" />
+        <File filename="~\UI.Package\Templates/ChildCategories.hbs" />
+        <File filename="~\UI.Package\Templates/CompactOrderDetail.hbs" />
+        <File filename="~\UI.Package\Templates/CompleteCheckoutOrderSummary.hbs" />
+        <File filename="~\UI.Package\Templates/CompleteCheckoutOrderSummaryContainer.hbs" />
+        <File filename="~\UI.Package\Templates/ConfirmationModal.hbs" />
+        <File filename="~\UI.Package\Templates/Coupon.hbs" />
+        <File filename="~\UI.Package\Templates/Coupons.hbs" />
+        <File filename="~\UI.Package\Templates/CouponsBlade.hbs" />
+        <File filename="~\UI.Package\Templates/CouponsSummary.hbs" />
+        <File filename="~\UI.Package\Templates/CreateAccount.hbs" />
+        <File filename="~\UI.Package\Templates/CreateAccountBlade.hbs" />
+        <File filename="~\UI.Package\Templates/CreateAccountForms.hbs" />
+        <File filename="~\UI.Package\Templates/CreateAccountFormsServerValidations.hbs" />
+        <File filename="~\UI.Package\Templates/CreateAccountRequiresApproval.hbs" />
+        <File filename="~\UI.Package\Templates/CreateAccountSuccess.hbs" />
+        <File filename="~\UI.Package\Templates/CreditCardPaymentMethodButton.hbs" />
+        <File filename="~\UI.Package\Templates/CurrentOrders.hbs" />
+        <File filename="~\UI.Package\Templates/CurrentOrdersContainer.hbs" />
+        <File filename="~\UI.Package\Templates/EditAddress.hbs" />
+        <File filename="~\UI.Package\Templates/EditAddressBlade.hbs" />
+        <File filename="~\UI.Package\Templates/EditAddressForms.hbs" />
+        <File filename="~\UI.Package\Templates/EditAddressFormsServerValidations.hbs" />
+        <File filename="~\UI.Package\Templates/EmptyCart.hbs" />
+        <File filename="~\UI.Package\Templates/EstimateShippingValidationForm.hbs" />
+        <File filename="~\UI.Package\Templates/FindMyOrder.hbs" />
+        <File filename="~\UI.Package\Templates/FindMyOrderContainer.hbs" />
+        <File filename="~\UI.Package\Templates/FooterContainer.hbs" />
+        <File filename="~\UI.Package\Templates/FooterNavEntry.hbs" />
+        <File filename="~\UI.Package\Templates/FooterOptionalLinks.hbs" />
+        <File filename="~\UI.Package\Templates/FooterSocialLinks.hbs" />
+        <File filename="~\UI.Package\Templates/ForgotPassword.hbs" />
+        <File filename="~\UI.Package\Templates/ForgotPasswordBlade.hbs" />
+        <File filename="~\UI.Package\Templates/ForgotPasswordForms.hbs" />
+        <File filename="~\UI.Package\Templates/ForgotPasswordFormsServerValidations.hbs" />
+        <File filename="~\UI.Package\Templates/ForgotPasswordSuccess.hbs" />
+        <File filename="~\UI.Package\Templates/FormErrorMessages.hbs" />
+        <File filename="~\UI.Package\Templates/GeneralErrorContainer.hbs" />
+        <File filename="~\UI.Package\Templates/GlobalValidation.hbs" />
+        <File filename="~\UI.Package\Templates/GoogleAnalytics.hbs" />
+        <File filename="~\UI.Package\Templates/GuestCustomerInfo.hbs" />
+        <File filename="~\UI.Package\Templates/GuestCustomerInfoContainer.hbs" />
+        <File filename="~\UI.Package\Templates/handlebar.hbs" />
+        <File filename="~\UI.Package\Templates/HelpBubbleClose.hbs" />
+        <File filename="~\UI.Package\Templates/HelpBubbleOpen.hbs" />
+        <File filename="~\UI.Package\Templates/HomeLogo.hbs" />
+        <File filename="~\UI.Package\Templates/KvaItems.hbs" />
+        <File filename="~\UI.Package\Templates/LanguageSwitch.hbs" />
+        <File filename="~\UI.Package\Templates/LineItemDetail.hbs" />
+        <File filename="~\UI.Package\Templates/Loading.hbs" />
+        <File filename="~\UI.Package\Templates/MainImage.hbs" />
+        <File filename="~\UI.Package\Templates/MainImageContent.hbs" />
+        <File filename="~\UI.Package\Templates/MainMenu.hbs" />
+        <File filename="~\UI.Package\Templates/MainMenuEntry.hbs" />
+        <File filename="~\UI.Package\Templates/Minicart.hbs" />
+        <File filename="~\UI.Package\Templates/MinicartLineItem.hbs" />
+        <File filename="~\UI.Package\Templates/MinicartQuantity.hbs" />
+        <File filename="~\UI.Package\Templates/MinicartSummary.hbs" />
+        <File filename="~\UI.Package\Templates/MinicartSummaryBlade.hbs" />
+        <File filename="~\UI.Package\Templates/MonerisCanadaPaymentProvider.hbs" />
+        <File filename="~\UI.Package\Templates/MultiSelectFacet.hbs" />
+        <File filename="~\UI.Package\Templates/MultiSelectPromotedFacet.hbs" />
+        <File filename="~\UI.Package\Templates/MyAccountMenu.hbs" />
+        <File filename="~\UI.Package\Templates/MyAccountMenuBlade.hbs" />
+        <File filename="~\UI.Package\Templates/NewCustomer.hbs" />
+        <File filename="~\UI.Package\Templates/NewCustomerBlade.hbs" />
+        <File filename="~\UI.Package\Templates/NewPassword.hbs" />
+        <File filename="~\UI.Package\Templates/NewPasswordBlade.hbs" />
+        <File filename="~\UI.Package\Templates/NewPasswordForms.hbs" />
+        <File filename="~\UI.Package\Templates/NewPasswordFormsServerValidations.hbs" />
+        <File filename="~\UI.Package\Templates/NewPasswordInvalidTicket.hbs" />
+        <File filename="~\UI.Package\Templates/NewPasswordSuccess.hbs" />
+        <File filename="~\UI.Package\Templates/NotFound.hbs" />
+        <File filename="~\UI.Package\Templates/OnSitePOSPaymentProvider.hbs" />
+        <File filename="~\UI.Package\Templates/OptionalLinks.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetails.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsAddress.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsComment.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsContainer.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsInfos.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsLineItem.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsLineItems.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsPayments.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsShipment.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsShipments.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsShippingMethod.hbs" />
+        <File filename="~\UI.Package\Templates/OrderDetailsSummary.hbs" />
+        <File filename="~\UI.Package\Templates/OrderHistoryPagination.hbs" />
+        <File filename="~\UI.Package\Templates/OrderSummary.hbs" />
+        <File filename="~\UI.Package\Templates/OrderSummaryBlade.hbs" />
+        <File filename="~\UI.Package\Templates/PageHeader.hbs" />
+        <File filename="~\UI.Package\Templates/PageNotFoundAnalytics.hbs" />
+        <File filename="~\UI.Package\Templates/Pager.hbs" />
+        <File filename="~\UI.Package\Templates/Pagination.hbs" />
+        <File filename="~\UI.Package\Templates/PaginationDropDown.hbs" />
+        <File filename="~\UI.Package\Templates/PastOrders.hbs" />
+        <File filename="~\UI.Package\Templates/PastOrdersContainer.hbs" />
+        <File filename="~\UI.Package\Templates/PaymentConfirmationModal.hbs" />
+        <File filename="~\UI.Package\Templates/PaymentMethodContainer.hbs" />
+        <File filename="~\UI.Package\Templates/PaymentMethodList.hbs" />
+        <File filename="~\UI.Package\Templates/PriceDiscount.hbs" />
+        <File filename="~\UI.Package\Templates/ProductDescription.hbs" />
+        <File filename="~\UI.Package\Templates/ProductImages.hbs" />
+        <File filename="~\UI.Package\Templates/ProductQuantity.hbs" />
+        <File filename="~\UI.Package\Templates/ProductQuickView.hbs" />
+        <File filename="~\UI.Package\Templates/ProductQuickviewDataBlade.hbs" />
+        <File filename="~\UI.Package\Templates/ProductQuickViewKvaItems.hbs" />
+        <File filename="~\UI.Package\Templates/ProductSpecifications.hbs" />
+        <File filename="~\UI.Package\Templates/ProductSummary.hbs" />
+        <File filename="~\UI.Package\Templates/ProductZoom.hbs" />
+        <File filename="~\UI.Package\Templates/PromotedFacetValues.hbs" />
+        <File filename="~\UI.Package\Templates/RegisteredAddresses.hbs" />
+        <File filename="~\UI.Package\Templates/RelatedProduct.hbs" />
+        <File filename="~\UI.Package\Templates/RelatedProducts.hbs" />
+        <File filename="~\UI.Package\Templates/RelatedProductsBlade.hbs" />
+        <File filename="~\UI.Package\Templates/ReturningCustomer.hbs" />
+        <File filename="~\UI.Package\Templates/ReturningCustomerBlade.hbs" />
+        <File filename="~\UI.Package\Templates/ReturningCustomerForms.hbs" />
+        <File filename="~\UI.Package\Templates/ReturningCustomerFormsServerValidations.hbs" />
+        <File filename="~\UI.Package\Templates/SavedCreditCardPaymentMethodItem.hbs" />
+        <File filename="~\UI.Package\Templates/SavedCreditCartPaymentMethod.hbs" />
+        <File filename="~\UI.Package\Templates/SearchBox.hbs" />
+        <File filename="~\UI.Package\Templates/SearchFacets.hbs" />
+        <File filename="~\UI.Package\Templates/SearchFacetsDropdown.hbs" />
+        <File filename="~\UI.Package\Templates/SearchFacetsEmpty.hbs" />
+        <File filename="~\UI.Package\Templates/SearchProductResult.hbs" />
+        <File filename="~\UI.Package\Templates/SearchRangeFacet.hbs" />
+        <File filename="~\UI.Package\Templates/SearchResults.hbs" />
+        <File filename="~\UI.Package\Templates/SearchSortBy.hbs" />
+        <File filename="~\UI.Package\Templates/SearchSummary.hbs" />
+        <File filename="~\UI.Package\Templates/SelectedSearchFacets.hbs" />
+        <File filename="~\UI.Package\Templates/SharedWishListContainer.hbs" />
+        <File filename="~\UI.Package\Templates/SharedWishListHeaderContainer.hbs" />
+        <File filename="~\UI.Package\Templates/SharedWishListSummary.hbs" />
+        <File filename="~\UI.Package\Templates/SharedWishListSummaryTile.hbs" />
+        <File filename="~\UI.Package\Templates/ShareWishList.hbs" />
+        <File filename="~\UI.Package\Templates/ShippingAddress.hbs" />
+        <File filename="~\UI.Package\Templates/ShippingAddressContainer.hbs" />
+        <File filename="~\UI.Package\Templates/ShippingAddressRegistered.hbs" />
+        <File filename="~\UI.Package\Templates/ShippingAddressRegisteredContainer.hbs" />
+        <File filename="~\UI.Package\Templates/ShippingMethod.hbs" />
+        <File filename="~\UI.Package\Templates/ShippingMethodContainer.hbs" />
+        <File filename="~\UI.Package\Templates/SignInHeader.hbs" />
+        <File filename="~\UI.Package\Templates/SignInHeaderBlade.hbs" />
+        <File filename="~\UI.Package\Templates/SimplePaymentMethodButton.hbs" />
+        <File filename="~\UI.Package\Templates/SingleFacet.hbs" />
+        <File filename="~\UI.Package\Templates/SinglePromotedFacet.hbs" />
+        <File filename="~\UI.Package\Templates/StickyLinks.hbs" />
+        <File filename="~\UI.Package\Templates/StoreAddress.hbs" />
+        <File filename="~\UI.Package\Templates/StoreDetails.hbs" />
+        <File filename="~\UI.Package\Templates/StoreDirectory.hbs" />
+        <File filename="~\UI.Package\Templates/StoreDirectoryListItem.hbs" />
+        <File filename="~\UI.Package\Templates/StoreGoogleStructuredDataTags.hbs" />
+        <File filename="~\UI.Package\Templates/StoreInventory.hbs" />
+        <File filename="~\UI.Package\Templates/StoreInventoryLink.hbs" />
+        <File filename="~\UI.Package\Templates/StoreInventoryList.hbs" />
+        <File filename="~\UI.Package\Templates/StoreInventoryTile.hbs" />
+        <File filename="~\UI.Package\Templates/StoreLocator.hbs" />
+        <File filename="~\UI.Package\Templates/StoreLocatorInHeader.hbs" />
+        <File filename="~\UI.Package\Templates/StoreMapMarkerInfo.hbs" />
+        <File filename="~\UI.Package\Templates/StoreOpenHourExceptions.hbs" />
+        <File filename="~\UI.Package\Templates/StoreOpenHours.hbs" />
+        <File filename="~\UI.Package\Templates/StoreServices.hbs" />
+        <File filename="~\UI.Package\Templates/StoresList.hbs" />
+        <File filename="~\UI.Package\Templates/StoresListSchedule.hbs" />
+        <File filename="~\UI.Package\Templates/StoreTile.hbs" />
+        <File filename="~\UI.Package\Templates/Tax.hbs" />
+        <File filename="~\UI.Package\Templates/UpdateAccount.hbs" />
+        <File filename="~\UI.Package\Templates/UpdateAccountBlade.hbs" />
+        <File filename="~\UI.Package\Templates/UpdateAccountForms.hbs" />
+        <File filename="~\UI.Package\Templates/UpdateAccountSuccessful.hbs" />
+        <File filename="~\UI.Package\Templates/WishList.hbs" />
+        <File filename="~\UI.Package\Templates/WishListContainer.hbs" />
+        <File filename="~\UI.Package\Templates/WishListInHeader.hbs" />
+        <File filename="~\UI.Package\Templates/WishListQuantity.hbs" />
+        <File filename="~\UI.Package\Templates/WishListSummary.hbs" />
+        <File filename="~\UI.Package\Templates/WishListSummaryTile.hbs" />
+        <File filename="~\UI.Package\tsd.json" />
+        <File filename="~\UI.Package\Typings/bootstrap/bootstrap.d.ts" />
+        <File filename="~\UI.Package\Typings/chance/chance.d.ts" />
+        <File filename="~\UI.Package\Typings/googlemaps/google.maps.d.ts" />
+        <File filename="~\UI.Package\Typings/googlemaps/google.maps.markerwithlabel.d.ts" />
+        <File filename="~\UI.Package\Typings/handlebars/handlebars.d.ts" />
+        <File filename="~\UI.Package\Typings/jasmine/jasmine.d.ts" />
+        <File filename="~\UI.Package\Typings/jquery/jquery.d.ts" />
+        <File filename="~\UI.Package\Typings/lodash/lodash.d.ts" />
+        <File filename="~\UI.Package\Typings/nouislider/nouislider.d.ts" />
+        <File filename="~\UI.Package\Typings/orckestra.composer.d.ts" />
+        <File filename="~\UI.Package\Typings/q/Q.d.ts" />
+        <File filename="~\UI.Package\Typings/requirejs/require.d.ts" />
+        <File filename="~\UI.Package\Typings/sinon/sinon.d.ts" />
+        <File filename="~\UI.Package\Typings/slick-carousel/slick-carousel.d.ts" />
+        <File filename="~\UI.Package\Typings/tsd.d.ts" />
+        <File filename="~\UI.Package\Typings/wnumb/wnumb.d.ts" />
+        <File filename="~\Bin\Autofac.dll" />
+        <File filename="~\Bin\Autofac.Integration.Mvc.dll" />
+        <File filename="~\Bin\Autofac.Integration.WebApi.dll" />
+        <File filename="~\Bin\Fasterflect.dll" />
+        <File filename="~\Bin\Handlebars.dll" />
+        <File filename="~\Bin\Hangfire.AspNet.dll" />
+        <File filename="~\Bin\Hangfire.Autofac.dll" />
+        <File filename="~\Bin\Hangfire.CompositeC1.dll" />
+        <File filename="~\Bin\Hangfire.Core.dll" />
+        <File filename="~\Bin\ICSharpCode.SharpZipLib.dll" />
+        <File filename="~\Bin\Microsoft.Azure.KeyVault.Core.dll" />
+        <File filename="~\Bin\Microsoft.Data.Edm.dll" />
+        <File filename="~\Bin\Microsoft.Data.OData.dll" />
+        <File filename="~\Bin\Microsoft.Data.Services.Client.dll" />
+        <File filename="~\Bin\Microsoft.Owin.dll" />
+        <File filename="~\Bin\Microsoft.Owin.Host.SystemWeb.dll" />
+        <File filename="~\Bin\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll" />
+        <File filename="~\Bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll" />
+        <File filename="~\Bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll" />
+        <File filename="~\Bin\Microsoft.WindowsAzure.Storage.dll" />
+        <File filename="~\Bin\Newtonsoft.Json.dll" backupFile="-1352418648_Newtonsoft.Json.dll" />
+        <File filename="~\Bin\Orckestra.AsyncExtensions.dll" />
+        <File filename="~\Bin\Orckestra.Caching.dll" />
+        <File filename="~\Bin\Orckestra.Composer.Cart.dll" />
+        <File filename="~\Bin\Orckestra.Composer.CompositeC1.Azure.dll" />
+        <File filename="~\Bin\Orckestra.Composer.CompositeC1.DataTypes.dll" />
+        <File filename="~\Bin\Orckestra.Composer.CompositeC1.dll" />
+        <File filename="~\Bin\Orckestra.Composer.CompositeC1.Mvc.dll" />
+        <File filename="~\Bin\Orckestra.Composer.dll" />
+        <File filename="~\Bin\Orckestra.Composer.GoogleAnalytics.dll" />
+        <File filename="~\Bin\Orckestra.Composer.MyAccount.dll" />
+        <File filename="~\Bin\Orckestra.Composer.Product.dll" />
+        <File filename="~\Bin\Orckestra.Composer.Search.dll" />
+        <File filename="~\Bin\Orckestra.Composer.Sitemap.dll" />
+        <File filename="~\Bin\Orckestra.Composer.Store.dll" />
+        <File filename="~\Bin\Orckestra.Overture.Interfaces.dll" />
+        <File filename="~\Bin\Orckestra.Overture.Providers.MonerisPayment.ServiceModel.dll" />
+        <File filename="~\Bin\Orckestra.Overture.RestClient.dll" />
+        <File filename="~\Bin\Orckestra.Overture.ServiceModel.dll" />
+        <File filename="~\Bin\Orckestra.Overture.ServiceModel.Requests.dll" />
+        <File filename="~\Bin\Owin.dll" />
+        <File filename="~\Bin\RouteLocalization.Mvc.dll" />
+        <File filename="~\Bin\ServiceStack.Client.dll" />
+        <File filename="~\Bin\ServiceStack.Common.dll" />
+        <File filename="~\Bin\ServiceStack.Interfaces.dll" />
+        <File filename="~\Bin\ServiceStack.Text.dll" />
+        <File filename="~\Bin\StackExchange.Redis.StrongName.dll" />
+        <File filename="~\Bin\System.Net.Http.Extensions.dll" />
+        <File filename="~\Bin\System.Net.Http.Formatting.dll" />
+        <File filename="~\Bin\System.Net.Http.Primitives.dll" />
+        <File filename="~\Bin\System.Spatial.dll" />
+        <File filename="~\Bin\System.Web.Helpers.dll" backupFile="-1352418648_System.Web.Helpers.dll" />
+        <File filename="~\Bin\System.Web.Http.dll" />
+        <File filename="~\Bin\System.Web.Http.WebHost.dll" />
+        <File filename="~\Bin\System.Web.Mvc.dll" backupFile="-1352418648_System.Web.Mvc.dll" />
+        <File filename="~\Bin\System.Web.Razor.dll" backupFile="-1352418648_System.Web.Razor.dll" />
+        <File filename="~\Bin\System.Web.WebPages.Deployment.dll" backupFile="-1352418648_System.Web.WebPages.Deployment.dll" />
+        <File filename="~\Bin\System.Web.WebPages.dll" backupFile="-1352418648_System.Web.WebPages.dll" />
+        <File filename="~\Bin\System.Web.WebPages.Razor.dll" backupFile="-1352418648_System.Web.WebPages.Razor.dll" />
+        <File filename="~\App_Config\Caching.config" />
+        <File filename="~\App_Config\Composer.config" />
+        <File filename="~\App_Config\OutputCache.config" />
+        <File filename="~\App_Data\Composite/TreeDefinitions/NavigationElement.xml" />
+        <File filename="~\App_Data\Composite/TreeDefinitions/SitemapElement.xml" />
+        <File filename="~\App_Data\Media/40d9ba8b-4afe-45b6-b161-6b619973a4c1" />
+        <File filename="~\App_Data\PageTemplateFeatures/Descriptive HTML head elements.xml" />
+        <File filename="~\App_Data\PageTemplateFeatures/Minicart.html" />
+        <File filename="~\App_Data\PageTemplateFeatures/Social links.html" />
+        <File filename="~\App_Data\PageTemplates/AccountPageLayout.cshtml" />
+        <File filename="~\App_Data\PageTemplates/CategoryLandingPageLayout.cshtml" />
+        <File filename="~\App_Data\PageTemplates/CategoryPageLayout.cshtml" />
+        <File filename="~\App_Data\PageTemplates/CheckoutPageLayout.cshtml" />
+        <File filename="~\App_Data\PageTemplates/DefaultPageLayout.cshtml" />
+        <File filename="~\App_Data\PageTemplates/MasterLayout.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/CheckoutHeader.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Footer.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/AccountGrid.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/CartSideGrid.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/FiveSixthsOneSixths.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/FullGrid.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/OneThirdTwoThirds.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/SearchGrid.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Grids/TwoThirdsOneThird.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Header.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Http404Status.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Layout/Helpers/InjectContainerElements.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/PageTitle.cshtml" />
+        <File filename="~\App_Data\Razor/Composer/Social/IconLinks.cshtml" />
+        <File filename="~\Views\Footer/FollowUs.cshtml" />
+        <File filename="~\Views\web.config" backupFile="739801833_web.config" />
+      </Files>
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.DataPackageFragmentUninstaller,Composite">
+      <Types xmlns="">
+        <Type type="Composite.Data.Types.IMediaFileData,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="40d9ba8b-4afe-45b6-b161-6b619973a4c1" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IMediaFolderData,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="5f6e9d17-a467-4dbf-aad7-cfed5bafbc66" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="69e32716-2bb5-449a-92c2-75423dac9175" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPageType,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="916a50c8-6044-46d0-8c47-13c88f8b0d25" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8132f659-418b-4c39-b450-9c8c53a86bd4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="ab50b336-ee78-4c53-9fb6-022407c0d3ef" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="593bc135-033e-4c76-ba03-04dbc31405f4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="67d26e71-a331-43c7-8a84-5a94234da4b6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9a89191f-fc93-47ee-8b9b-022611c37fa6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f64fe76f-bb5a-4b6d-9499-e81762f25db6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a014b691-fc87-42c1-b664-84e0b951e4ed" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPageMetaDataDefinition,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="3e23489b-0890-4683-a415-c3ad8b8b5368" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9dd8f330-4bb3-4a0e-96db-79d332f3dd4e" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="80c7eb02-fd58-4045-9532-db3ba5d8bd4b" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPageTypeDefaultPageContent,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="741490f3-7f71-4404-8e90-7559f1ad4cf1" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="5926bde0-f5fd-45a3-a4e1-e9b185e700da" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9afa62d2-ca24-4f98-95a6-a3285fdcc877" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="2b6b63c6-0b94-45a5-a448-ccfb7bcc4ab4" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c281faad-5b88-4a0d-9dc9-52655c969f1c" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="19eabafb-6107-4eef-8f31-85ebcab97001" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="12ee0690-b4a0-45c6-9798-9042d5b1fd39" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8eddced2-78c9-4861-8dcd-1e1369878ceb" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="25596712-5488-481f-aded-86afdafc60b6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="bfcf82c8-41a6-4077-9bd3-6ba60e813747" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c64b16d2-e986-4e30-8648-953f9736c61f" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="7022596f-645d-4252-b847-669e3d2806a2" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="28733eb8-1ca2-436a-8c7d-833d2d41ac07" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="572bf55d-e162-4118-b53b-7a7db93d2349" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f8b14699-cd31-49ab-a5e9-9ff184c119b1" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f507bac1-e500-401e-a480-505a42fd0412" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="b18e03e1-7451-416c-828a-4b3f20f0f3ee" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8a877276-4082-4fd5-9a2b-107929a996f6" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f7291334-1817-45b0-a965-8e88e7c2ffed" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="07defb80-dabf-4eb1-9a11-0b011ed4f9ea" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a3d1dd70-9783-493d-8a51-c16d734b00ea" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="e29f29db-3299-41d7-b2f7-253fe9ee9be8" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="38c654ce-4993-4c27-9aa6-e7a4898a8d30" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="6fc3ae34-9adc-462a-bea1-998f79416229" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="812908b8-2a16-4f53-9f2c-a27d173c5054" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f3c130ec-9497-4c1b-9009-427905ccf5fb" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="542eb232-b0f0-432a-b74c-e2a335f208e7" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPageTypeMetaDataTypeLink,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="6d1c9037-a7ea-4fb1-a526-edd50cd29a3a" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="969ab578-7b3c-43d3-925d-cf7a75ef9e63" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f79d52b6-2b44-42c2-9c3e-e8d8cd5509ad" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IPageTypePageTemplateRestriction,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="f2155de5-78da-4b1f-8bf7-1973e5c88aea" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="f8e49c52-9aed-4ee2-9a68-671d814a4ecd" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="151c124c-d49f-4fe7-9fab-58f126b9caed" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="8b350f25-9fd7-4c3c-a41d-ce8f7d629a67" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="c1dd49ee-817e-4280-b011-7cbc26600cba" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="9a8dfdca-6f94-4515-9fc0-eb0c67065a15" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="ed95007d-10ec-4db6-aac0-38d7f1e71e30" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="af420475-d0e9-4cba-9a93-6c8cd704516e" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="29ae9a2b-68ab-4d2f-9abf-65e1fd0d43aa" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Language,Orckestra.Composer.CompositeC1" dataScopeIdentifier="administrated">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="677d6360-8233-479a-8045-5f5918b78540" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a7f11853-2172-412c-bdad-e47ce1611416" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Orckestra.Composer.CompositeC1.DataTypes.Language,Orckestra.Composer.CompositeC1" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="677d6360-8233-479a-8045-5f5918b78540" />
+            </Keys>
+            <Keys>
+              <Key name="Id" value="a7f11853-2172-412c-bdad-e47ce1611416" />
+            </Keys>
+          </Datas>
+        </Type>
+        <Type type="Composite.Data.Types.IDataItemTreeAttachmentPoint,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="57f28899-a64b-4a1a-b8b6-3178980d9f12" />
+            </Keys>
+          </Datas>
+        </Type>
+      </Types>
+    </Add>
+    <Add uninstallerType="Orckestra.Composer.CompositeC1.Installers.ComposerFragmentUninstaller,Orckestra.Composer.CompositeC1" />
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FileXslTransformationPackageFragmentUninstaller,Composite">
+      <XslFiles xmlns="">
+        <XslFile pathXml="~\Web.config" installXsl="~\Web.config.xsl" />
+      </XslFiles>
+    </Add>
+  </PackageFragmentUninstallers>
+</PackageInstaller>

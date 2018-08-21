@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.ConfigurationTransformationPackageFragmentUninstaller,Composite">
+      <Uninstall xsltFilePath="~\Composite.config\Uninstall.xsl" xmlns="" />
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FilePackageFragmentUninstaller,Composite">
+      <Files xmlns="">
+        <File filename="~\Composite\InstalledPackages\localization\Orckestra.ExperienceManagement.SearchQueryBuilder.en-US.xml" />
+        <File filename="~\Composite\InstalledPackages\localization\Orckestra.ExperienceManagement.SearchQueryBuilder.fr-FR.xml" />
+        <File filename="~\UI.Package\Templates\SearchQueryTopResults.hbs" />
+        <File filename="~\App_Data\Components\Merchandising Queries\Grid.xml" />
+        <File filename="~\App_Data\Components\Merchandising Queries\Top.xml" />
+        <File filename="~\App_Data\Razor\Composer\Components\Queries\Merchandising\Generic\Top.cshtml" />
+        <File filename="~\App_Data\Razor\Composer\Queries\Merchandising\Grid.cshtml" />
+        <File filename="~\App_Data\Razor\Composer\Queries\ProductSet\Grid.cshtml" />
+        <File filename="~\App_Data\Components\Product Sets\Grid.xml" />
+        <File filename="~\App_Data\Components\Product Sets\Top.xml" />
+        <File filename="~\bin\Orckestra.ExperienceManagement.SearchQuery.dll" />
+        <File filename="~\Bin\Orckestra.ExperienceManagement.SearchQueryBuilder.dll" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/product-set.html" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/product-set.min.js" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/product-set.min.js.map" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/query-builder.html" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/query-builder.min.js" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/query-builder.min.js.map" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/query-preview.html" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/query-preview.min.js" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.QueryBuilder\view/query-preview.min.js.map" />
+        <File filename="~\Composite\InstalledPackages\content\forms\Orckestra.ExperienceManagement.QueryBuilder\AddNewProductSet.xml" />
+        <File filename="~\Composite\InstalledPackages\content\forms\Orckestra.ExperienceManagement.QueryBuilder\AddNewQuery.xml" />
+        <File filename="~\Composite\InstalledPackages\content\forms\Orckestra.ExperienceManagement.QueryBuilder\DeleteProductSet.xml" />
+        <File filename="~\Composite\InstalledPackages\content\forms\Orckestra.ExperienceManagement.QueryBuilder\DeleteQuery.xml" />
+      </Files>
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.DataPackageFragmentUninstaller,Composite">
+      <Types xmlns="">
+        <Type type="Composite.Data.Types.IMethodBasedFunctionInfo,Composite" dataScopeIdentifier="public">
+          <Datas>
+            <Keys>
+              <Key name="Id" value="5b201c90-af5e-4d9e-b18b-e71c87c6f781" />
+            </Keys>
+          </Datas>
+        </Type>
+      </Types>
+    </Add>
+    <Add uninstallerType="Orckestra.ExperienceManagement.SearchQueryBuilder.SearchQueryFragmentUninstaller,Orckestra.ExperienceManagement.SearchQueryBuilder" />
+  </PackageFragmentUninstallers>
+</PackageInstaller>

@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInfo name="Composer.C1.Core" groupName="Composer" version="1.0.0" author="Orckestra" website="http://composer-c1-cm-dev.orckestra.local/" description="Composer.C1.CoreComposer.C1.Core" installDate="2018-07-16T20:49:00.8508201+02:00" installedBy="admin" isLocalInstalled="true" canBeUninstalled="true" flushOnCompletion="true" reloadConsoleOnCompletion="false" systemLocking="hard" xmlns="http://www.composite.net/ns/management/packageinstaller/1.0" />

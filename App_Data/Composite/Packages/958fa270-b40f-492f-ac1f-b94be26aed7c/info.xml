@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInfo name="Orckestra.ExperienceManagement.CategoryMerchandising" groupName="Orckestra.ExperienceManagement" version="3.15.0" author="Orckestra Inc." website="https://www.orckestra.com/" description="--" installDate="2018-07-16T20:49:19.1291167+02:00" installedBy="admin" isLocalInstalled="true" canBeUninstalled="false" flushOnCompletion="true" reloadConsoleOnCompletion="true" systemLocking="hard" xmlns="http://www.composite.net/ns/management/packageinstaller/1.0" />

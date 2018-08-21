@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CheckoutStepInfoPageElements>
+  <CheckoutStepInfoPage CurrentStep="3" IsDisplayedInHeader="true" PublicationStatus="published" SourceCultureName="en-CA" Id="1dbc1985-0582-4efe-8d81-8e99062f0bd7" PageId="571e734c-57a8-4d99-9c05-754bc1f31f2a" FieldName="CheckoutStepInfoPage" VersionId="e19f6cbd-ae39-4633-86f5-ce86ff13cb52" />
+  <CheckoutStepInfoPage CurrentStep="2" IsDisplayedInHeader="true" PublicationStatus="published" SourceCultureName="en-CA" Id="8de4e7b3-6e74-41c2-b7f6-9d237d76ebc8" PageId="e90e0d35-de67-4e8a-a03e-52529cdb437f" FieldName="CheckoutStepInfoPage" VersionId="e4ec0bcb-e3c1-4931-a31d-a64ae50c26ce" />
+  <CheckoutStepInfoPage CurrentStep="1" IsDisplayedInHeader="true" PublicationStatus="published" SourceCultureName="en-CA" Id="cf9be00c-4547-4748-a2d7-09a16de8aa18" PageId="ec6d3c9c-6d05-4b0f-addd-4ee1ef86b69f" FieldName="CheckoutStepInfoPage" VersionId="60ee6387-8815-4a9e-b193-0b4a35a13886" />
+  <CheckoutStepInfoPage CurrentStep="0" IsDisplayedInHeader="false" PublicationStatus="published" SourceCultureName="en-CA" Id="d227ab7e-a909-423b-a84f-840534ec8838" PageId="c558dc03-a8cd-4793-9d15-11bca1474592" FieldName="CheckoutStepInfoPage" VersionId="bc8711f3-5e28-4bd5-8008-15d04e88f6b3" />
+  <CheckoutStepInfoPage CurrentStep="4" IsDisplayedInHeader="false" PublicationStatus="published" SourceCultureName="en-CA" Id="d4951ac8-063c-4c77-bb29-9fa2d1a793d8" PageId="6cb21c3a-d72f-4ef8-9ee7-a6046ba646b5" FieldName="CheckoutStepInfoPage" VersionId="29e9a483-2b1b-41f0-9f30-d3dc84635714" />
+</CheckoutStepInfoPageElements>
