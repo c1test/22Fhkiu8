@@ -13,6 +13,5 @@
   <AggregatedCounterElements Id="a7c71721-480e-4dec-b79f-8809698a8705" Key="stats:succeeded:2018-08-07" Value="1" ExpireAt="2018-09-07T12:40:32.7069131Z" />
   <AggregatedCounterElements Id="b67c0837-2a63-4814-8e78-1f5f0141c7ab" Key="stats:succeeded:2018-08-06" Value="1" ExpireAt="2018-09-06T16:59:47.295041Z" />
   <AggregatedCounterElements Id="b6de728f-ccc3-4e48-85da-ed713de8ccf1" Key="stats:succeeded" Value="16" />
-  <AggregatedCounterElements Id="cac89f22-9151-4c85-a0f2-0de6cb3d581a" Key="stats:succeeded:2018-08-20-14" Value="1" ExpireAt="2018-08-21T14:53:55.3651404Z" />
   <AggregatedCounterElements Id="e5fdf4e4-26cc-426c-98ae-bc3724f4f387" Key="stats:succeeded:2018-08-20" Value="1" ExpireAt="2018-09-20T14:53:55.3651404Z" />
 </AggregatedCounterElementsElements>
