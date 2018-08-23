@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.ConfigurationTransformationPackageFragmentUninstaller,Composite">
+      <Uninstall xsltFilePath="~\Composite.config\Uninstall.xsl" xmlns="" />
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FilePackageFragmentUninstaller,Composite">
+      <Files xmlns="">
+        <File filename="~\Composite\InstalledPackages\localization\Orckestra.ExperienceManagement.FeaturedProducts.en-US.xml" />
+        <File filename="~\Composite\InstalledPackages\localization\Orckestra.ExperienceManagement.FeaturedProducts.fr-FR.xml" />
+        <File filename="~\Bin\Orckestra.ExperienceManagement.FeaturedProducts.dll" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.FeaturedProducts\content/forms/EditPage.ToolBar.xml" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.FeaturedProducts\controls/FormsControls/FeaturedProductsToolbar.ascx" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.FeaturedProducts\controls/FormsControls/FeaturedProductsToolbar.ascx.cs" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.FeaturedProducts\view/featured-products.html" />
+        <File filename="~\Composite\InstalledPackages\ExperienceManagement.FeaturedProducts\view/featured-products.min.js" />
+      </Files>
+    </Add>
+  </PackageFragmentUninstallers>
+</PackageInstaller>

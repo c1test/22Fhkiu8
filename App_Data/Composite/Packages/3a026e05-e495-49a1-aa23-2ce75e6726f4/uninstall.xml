@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FileXslTransformationPackageFragmentUninstaller,Composite">
+      <XslFiles xmlns="">
+        <XslFile pathXml="~/Web.config" installXsl="~\Web.config\Install.xsl" uninstallXsl="~\Web.config\Uninstall.xsl" />
+        <XslFile pathXml="~/App_Config/Composer.config" installXsl="~\Composer.config\Install.xsl" uninstallXsl="~\Composer.config\Uninstall.xsl" />
+        <XslFile pathXml="~/App_Config/ExperienceManagement.config" installXsl="~\ExperienceManagement.config\Install.xsl" uninstallXsl="~\ExperienceManagement.config\Uninstall.xsl" skipIfNotExist="true" />
+      </XslFiles>
+    </Add>
+  </PackageFragmentUninstallers>
+</PackageInstaller>

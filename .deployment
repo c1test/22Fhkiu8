@@ -1,0 +1,6 @@
+; Orckestra website deployment for Azure App Service website (kudu)
+; See https://github.com/projectkudu/kudu/wiki/Customizing-deployments
+
+[config]
+COMMAND = .deploy\deployment.cmd
+; COMMAND = powershell -NoProfile -NoLogo -ExecutionPolicy Unrestricted -Command "& "$pwd\.deploy\local-website-deployment.ps1" 2>&1 | echo"

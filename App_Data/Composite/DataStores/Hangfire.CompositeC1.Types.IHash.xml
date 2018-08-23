@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HashElementsElements>
+  <HashElements Id="0e2d6c74-670f-4833-989a-2e0a3b66810b" Key="recurring-job:sitemap-generation" Field="Queue" Value="default" />
+  <HashElements Id="27fc7329-b25c-4eae-a729-36b06b50bf7a" Key="recurring-job:sitemap-generation" Field="Cron" Value="0 2 * * *" />
+  <HashElements Id="6a6bef3f-c0c9-4d96-84b1-fe38212beb79" Key="recurring-job:sitemap-generation" Field="CreatedAt" Value="2018-08-23T08:19:37.4958671Z" />
+  <HashElements Id="7810cd95-aa3c-48cc-a3c9-254c609e6ae2" Key="recurring-job:sitemap-generation" Field="TimeZoneId" Value="UTC" />
+  <HashElements Id="e737d74f-4da1-4dcb-abfa-81303867711b" Key="recurring-job:sitemap-generation" Field="NextExecution" Value="2018-08-24T02:00:00.0000000Z" />
+  <HashElements Id="f20736dd-326b-40db-b2e9-3e91abf8f6a2" Key="recurring-job:sitemap-generation" Field="Job" Value="{&quot;Type&quot;:&quot;Orckestra.Composer.Sitemap.SitemapGenerator, Orckestra.Composer.Sitemap, Version=4.6.0.0, Culture=neutral, PublicKeyToken=null&quot;,&quot;Method&quot;:&quot;GenerateSitemaps&quot;,&quot;ParameterTypes&quot;:&quot;[\&quot;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\&quot;,\&quot;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\&quot;,\&quot;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\&quot;,\&quot;System.Globalization.CultureInfo[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\&quot;]&quot;,&quot;Arguments&quot;:&quot;[\&quot;\\\&quot;https://composer-c1-cm-dev.orckestra.local/\\\&quot;\&quot;,\&quot;\\\&quot;https://composer-c1-cm-dev.orckestra.local/sitemaps\\\&quot;\&quot;,\&quot;\\\&quot;BetterRetailCanada\\\&quot;\&quot;,\&quot;[\\\&quot;en-CA\\\&quot;,\\\&quot;fr-CA\\\&quot;]\&quot;]&quot;}" />
+</HashElementsElements>
